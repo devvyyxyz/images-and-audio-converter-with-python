@@ -9,6 +9,7 @@ python = ">=3.10.0,<3.12"
 numpy = "^1.26.4"
 pydub = "^0.25.1"
 tqdm = "^4.66.4"
+scipy = "^1.13.1"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
