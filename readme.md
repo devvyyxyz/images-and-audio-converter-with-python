@@ -166,11 +166,6 @@ if __name__ == "__main__":
 ## License
 
 This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
-## Deployment
-
-### Replit
-
-[Deploy to Replit](https://replit.com/import/github/devvyyxyz/random-gen-discord-bot)
 
 ### Donate
 <a href="https://www.patreon.com/devvyyxyz" rel="noopener nofollow ugc">
